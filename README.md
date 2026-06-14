@@ -4,7 +4,7 @@ I build things, mostly small AI systems that do real work, plus the apps and bus
 
 ### 🔨 What I'm building
 
-- **Lola Fete**: a party planning app I'm building (in active development).
+- **Lola Fete**: an AI-powered party planning app I'm building (in active development).
 - **Pixie**: a multi-agent AI system that runs the repetitive parts of managing ad accounts: drafting creative, analyzing performance, and writing reports.
 - **A digital publishing platform** run by a small crew of AI agents that I operate end to end on my own.
 - **AI Front Office**: a productized AI workflow kit for small businesses, live on Gumroad.
